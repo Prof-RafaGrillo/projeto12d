@@ -9,4 +9,5 @@ body{
 .cabecalho{
     background-color: #7e3e1c;
     display: flex;
+    justify-content: space-between;
 }
